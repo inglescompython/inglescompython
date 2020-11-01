@@ -1,7 +1,7 @@
 ###############################################################################
 #
 #   Algoritmos criados para fins educativos no projeto Inglês com Python
-#   Nos sigam no Instagram e Facebook: @inglescompython 
+#   Nos siga no Instagram e Facebook: @inglescompython 
 #   Aula 01 - Algoritmo "Verbo To Be"
 #
 ###############################################################################
