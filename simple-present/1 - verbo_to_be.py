@@ -31,5 +31,5 @@ for p in todos_pronomes:
 
 #Chamadas de função
 #verbo_to_be("I")
+#verbo_to_be("You")
 #verbo_to_be("He")
-#verbo_to_be("They")
