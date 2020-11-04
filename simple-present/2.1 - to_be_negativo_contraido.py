@@ -34,5 +34,5 @@ def to_be_negativo_contraido(pronome):
 
 todos_pronomes = ["I","You","He","She","It","We","You","They"]
 
-for v in todos_pronomes:
-    to_be_negativo_contraido(v)
+for p in todos_pronomes:
+    to_be_negativo_contraido(p)
