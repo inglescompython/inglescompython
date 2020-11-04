@@ -18,9 +18,9 @@ def to_be_negativo(pronome):
     if(pronome in excecao):
         print(pronome + " am"+" not")
     elif(pronome in singular):
-        print(pronome + " are"+" not")
+        print(pronome + " is"+" not")
     elif(pronome in plural):
-        print(pronome + " is"+ " not")
+        print(pronome + " are"+ " not")
     else:
         print("Pronome Desconhecido")
 
