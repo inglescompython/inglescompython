@@ -13,7 +13,10 @@ def to_be_negativo_contraido(pronome):
     excecao = ['I']
     plural = ['You','They','We']
     singular = ['He','She','It']
-
+    
+    # You é tanto pessoa do singular (você) como plural (vocês)
+    # mas a conjugação do verbo to be é o mesmo: "You are"
+    
     negativo_contraido = negativo.replace("o","'")
     #Subistitui o "o" por "'" (aspas simples), not => n't
 
