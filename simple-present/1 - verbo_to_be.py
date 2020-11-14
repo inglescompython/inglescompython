@@ -18,9 +18,9 @@ def verbo_to_be(pronome):
     if(pronome in excecao):
         print(pronome + " am")
     elif(pronome in singular):
-        print(pronome + " are")
-    elif(pronome in plural):
         print(pronome + " is")
+    elif(pronome in plural):
+        print(pronome + " are")
     else:
         print("Pronome Desconhecido")
 
