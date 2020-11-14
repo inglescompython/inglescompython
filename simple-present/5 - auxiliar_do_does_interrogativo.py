@@ -7,7 +7,7 @@
 #
 ###############################################################################
 
-def verbo_auxiliar_interrogativo(pronome):
+def auxiliar_do_does_interrogativo(pronome):
 
     terceira_pessoa_singular = ['He','She','It']
 
@@ -19,4 +19,4 @@ def verbo_auxiliar_interrogativo(pronome):
 todos_pronomes = ["I","You","He","She","It","We","You","They"]
 
 for pronome in todos_pronomes:
-    print(verbo_auxiliar_interrogativo(pronome))
+    print(auxiliar_do_does_interrogativo(pronome))
