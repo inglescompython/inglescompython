@@ -6,4 +6,4 @@
 
 ### About us
 
-Inglês com Python é um projeto que mostramos a logica gramatical do inglês em forma de algoritmos desenvolvidos em Python para programadores pensarem no inglês em uma forma mais logica.
+Inglês com Python é um projeto em que um analista de sistemas @erickfernandox e uma professora de inglês perceberam que geralmente a gramatica do inglês segue um padrão logico e repetitivo, e nisso criamos o desafio de tentar implementar um algoritmo na linguagem Python para cada etapa da gramatica do inglês visando ensinar programadores e pessoas de ciências exatas a pensar no inglês de uma forma mais logica.
