@@ -1,3 +1,12 @@
+# -*- coding: utf-8 -*-
+###############################################################################
+#
+# Algoritmos criados para fins educativos no projeto Inglês com Python
+# Nos sigam no Instagram e Facebook @inglescompython 
+# Aula 07 = Algoritmo Conjugação Verbal Afirmativo
+#
+###############################################################################
+
 def conjugacao_verbal_afirmativo(pronome, palavra):
 
     terceira_pessoa_singular = ['He','She','It']
