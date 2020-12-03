@@ -1,3 +1,12 @@
+# -*- coding: utf-8 -*-
+###############################################################################
+#
+# Algoritmos criados para fins educativos no projeto Inglês com Python
+# Nos sigam no Instagram e Facebook @inglescompython 
+# Aula 06.1 = Algoritmo Uso do Auxiliar "Do" e "Does" Negativo Contraido
+#
+###############################################################################
+
 def auxiliar_do_does_negativo_contraido(verbo):
 
     terceira_pessoa_singular =  ['He','She','It']
