@@ -10,14 +10,14 @@ def verbo_to_be(pronome):
     
     excecao = ['I']
     plural = ['You','They','We']
-    singular = ['He','She','It']
+    terceira_pessoa_singular = ['He','She','It']
 
     # You é tanto pessoa do singular (você) como plural (vocês)
     # mas a conjugação do verbo to be é o mesmo: "You are"
 
     if(pronome in excecao):
         print(pronome + " am")
-    elif(pronome in singular):
+    elif(pronome in terceira_pessoa_singular):
         print(pronome + " is")
     elif(pronome in plural):
         print(pronome + " are")
