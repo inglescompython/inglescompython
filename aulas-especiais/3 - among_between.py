@@ -1,10 +1,10 @@
-def among_between(quantidade_pessoas):
-    if(quantidade_pessoas == 2):
-        print("Between")
-    elif(quantidade_pessoas > 2):
-        print("Among")
+def uso_among_between(quantidade):
+    if(quantidade == 2):
+        print("Usa-se Between")
+    elif(quantidade > 2):
+        print("Usa-se Among")
     else:
         print("Quantidade Invalida")
 
-among_between(2)
-among_between(3)
+qnt = int(input("Quantos Objetos/Pessoas estão entre voce: "))
+uso_among_between(qnt)
