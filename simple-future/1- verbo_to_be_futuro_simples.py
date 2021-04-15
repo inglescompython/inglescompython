@@ -1,6 +1,5 @@
 def verbo_to_be_futuro_simples(pronome):
-  return pronome + " will" + " be" 
-
+  return pronome + " will" + " be"
   
 pronomes = ["I", "You", "He", "She", 
            "It", "We", "You", "They"]
