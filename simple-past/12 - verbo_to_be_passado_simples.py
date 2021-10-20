@@ -1,3 +1,12 @@
+
+###############################################################################
+#
+#   Algoritmos criados para fins educativos no projeto Inglês com Python
+#   Nos siga no Instagram e Facebook: @inglescompython 
+#   Aula 12 - Algoritmo " Verbo To Be Passado Simples"
+#
+###############################################################################
+
 def verbo_to_be_passado_simples(pronome):
 
     singular = ["I","He","She","It"]
