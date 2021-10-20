@@ -2,7 +2,7 @@
 #
 #   Algoritmos criados para fins educativos no projeto Inglês com Python
 #   Nos siga no Instagram e Facebook: @inglescompython 
-#   Aula 11 - Algoritmo "Auxiliar Did Forma Negativa Contraido"
+#   Aula 10.1 - Algoritmo "Auxiliar Did Forma Negativa Contraido"
 #
 ###############################################################################
 
