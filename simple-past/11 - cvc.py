@@ -20,7 +20,8 @@ def regra_cvc_passado(verbo,verifica_silaba):
                 ## Se a ultima letra for "Y" e a antepenultima for vogal ou a ultima for "X" então usa-se "ed" no final
                 return verbo+"ed"
             else:
-                
+                ## Se a palavra não tem "y" ou "x" no final e a penultima letra for vogal, 
+                ## remove a ultima letra e concatena "ed" no final
                 return verbo+verbo[-1]+"ed"
         else:
             ## Se a palavra entra na regra CVC e a ultima silaba não for tonica, só se concatena "ed" no final da palavra
